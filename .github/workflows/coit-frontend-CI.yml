@@ -36,6 +36,6 @@ jobs:
 
       - name: Push the container Image
         run: |
-          docker push coit-frontend 953533/coit-frontend:latest 
+          docker push 953533/coit-frontend:latest 
 
        
